@@ -1,6 +1,6 @@
 # 简介
 
-该项目为[JZLSX](https://unijzlsx.cn/)用于存储网页图片，使用jsdelivr的免费CDN实现全球加速。
+该项目用于存储网页图片，使用jsdelivr的免费CDN实现全球加速。
 
 ## 实现原理
 
