@@ -1,7 +1,7 @@
-# 简介
+# 概要
 
-该项目用于存储网页图片，使用jsdelivr的免费CDN实现全球加速。
+このプロジェクトはウェブページの画像を保存して、jsdelivrの無料CDNを使ってグローバル加速を実現する。
 
-## 实现原理
+## 原理
 
-Github 做 CDN 存储，jsDelivr 做 CDN 服务器。
+Githubはデータを保存，jsDelivrはCDNプロバイダ。
